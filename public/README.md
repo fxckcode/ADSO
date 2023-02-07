@@ -1,1 +1,1 @@
-<h1 align="center">Area multimedia 🛣️<h1>
+<h1 align="center">Area multimedia 🛣️</h1>
